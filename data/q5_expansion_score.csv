@@ -1,0 +1,11 @@
+City,total_restaurants,avg_rating,avg_cost,delivery_enabled,delivery_pct,expansion_score
+Ahmedabad,21,4.16,857.0,11,52.4,2.18
+Gurgaon,890,3.33,798.0,412,46.3,1.542
+Noida,696,3.16,630.0,335,48.1,1.521
+Ghaziabad,23,3.1,628.0,10,43.5,1.348
+New Delhi,4048,3.3,692.0,1436,35.5,1.17
+Faridabad,151,3.1,493.0,34,22.5,0.699
+Lucknow,21,4.2,860.0,0,0.0,0.0
+Guwahati,21,4.19,821.0,0,0.0,0.0
+Bhubaneshwar,21,3.98,679.0,0,0.0,0.0
+Amritsar,21,3.69,481.0,0,0.0,0.0

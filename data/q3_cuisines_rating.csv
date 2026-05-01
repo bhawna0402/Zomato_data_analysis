@@ -1,0 +1,11 @@
+Cuisines,restaurant_count,avg_rating
+Italian,26,3.82
+"North Indian, Continental",26,3.52
+"Desserts, Ice Cream",22,3.5
+Desserts,36,3.49
+"Chinese, Thai",46,3.49
+"Burger, Fast Food",38,3.49
+"Bakery, Desserts, Fast Food",61,3.48
+Ice Cream,45,3.44
+Beverages,39,3.44
+"North Indian, Chinese, Continental",58,3.4
