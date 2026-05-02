@@ -28,7 +28,7 @@ Analysing 9,551 Zomato restaurant records across 15 countries (2018 data) to ans
 
 ### Finding 1 — Smaller cities outperform Delhi in quality
 
-![Top Cities by Rating](dashboard/screenshots/chart1_cities_rating.png)
+![Top Cities by Rating](Dashboard/screenshots/chart1_cities_rating.png)
 
 Lucknow (4.20), Guwahati (4.19), and Ahmedabad (4.16) are India's highest rated cities — outperforming New Delhi (3.30) despite Delhi having **190x more restaurants** on the platform. Bigger presence does not mean better quality.
 
@@ -36,7 +36,7 @@ Lucknow (4.20), Guwahati (4.19), and Ahmedabad (4.16) are India's highest rated 
 
 ### Finding 2 — Online delivery drives engagement, not quality
 
-![Online Delivery Impact](dashboard/screenshots/chart2_delivery_impact.png)
+![Online Delivery Impact](Dashboard/screenshots/chart2_delivery_impact.png)
 
 Delivery restaurants score only marginally higher ratings (3.37 vs 3.34) but receive **35% more customer votes** (218 vs 162). Online delivery increases platform visibility — not food quality.
 
@@ -44,7 +44,7 @@ Delivery restaurants score only marginally higher ratings (3.37 vs 3.34) but rec
 
 ### Finding 3 — Italian cuisine tops all categories unexpectedly
 
-![Top Cuisines](dashboard/screenshots/chart3_cuisines_rating.png)
+![Top Cuisines](Dashboard/screenshots/chart3_cuisines_rating.png)
 
 Italian cuisine (3.82 avg) outperforms North Indian (3.40) by a significant margin — suggesting strong demand for international cuisines in Indian metros that Zomato could leverage for restaurant acquisition.
 
@@ -52,7 +52,7 @@ Italian cuisine (3.82 avg) outperforms North Indian (3.40) by a significant marg
 
 ### Finding 4 — Best value dining = Delhi street food
 
-![Best Value Restaurants](dashboard/screenshots/chart4_value_restaurants.png)
+![Best Value Restaurants](Dashboard/screenshots/chart4_value_restaurants.png)
 
 Jung Bahadur Kachori Wala scores 8.2 on value (rating per ₹100) with a 4.1 rating at just ₹50 for two. The top 4 value restaurants all cost ₹50 — proving premium quality does not require premium pricing.
 
@@ -60,7 +60,7 @@ Jung Bahadur Kachori Wala scores 8.2 on value (rating per ₹100) with a 4.1 rat
 
 ### Finding 5 — Ahmedabad is the top expansion candidate
 
-![City Expansion Score](dashboard/screenshots/chart5_expansion_score.png)
+![City Expansion Score](Dashboard/screenshots/chart5_expansion_score.png)
 
 Ahmedabad leads with an expansion score of 2.18 — the only city combining high ratings (4.16) AND strong delivery adoption (52.4%). Lucknow and Guwahati have better ratings but **0% delivery** — the biggest untapped opportunity on the platform.
 
@@ -68,7 +68,7 @@ Ahmedabad leads with an expansion score of 2.18 — the only city combining high
 
 ### Bonus — City Intelligence Map (Interactive)
 
-![City Intelligence Map](dashboard/screenshots/chart6_city_map.png)
+![City Intelligence Map](Dashboard/screenshots/chart6_city_map.png)
 
 Interactive bubble chart: X = avg cost, Y = avg rating, bubble size = restaurant count, colour = delivery adoption %. The two large green bubbles are Delhi and Gurgaon — high volume, moderate quality. Small dots in the top right = hidden gem cities with high quality but low restaurant count.
 
