@@ -157,11 +157,10 @@ Full queries available in `/SQL_Queries/queries.sql`
 
 ## ✍️ Author
 
-**Jitender Kumar**
+**Bhawna**
 Data Analyst | SQL · Python · Power BI · Tableau
 B.E. Computer Science — Chandigarh University (2026)
 
-🔗 [LinkedIn](https://linkedin.com/in/jitender-kumar-415860257) &nbsp;|&nbsp;
-🐙 [GitHub](https://github.com/Jitender4497) &nbsp;|&nbsp;
-📊 [Tableau Public](https://public.tableau.com/app/profile/jitender.kumar6303) &nbsp;|&nbsp;
-📧 georgian4497@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/bhawna-suthar04/)&nbsp;|&nbsp;
+🐙 [GitHub](https://github.com/bhawna0402) &nbsp;|&nbsp;
+📧 iarmy1949@gmail.com
