@@ -1,7 +1,7 @@
 # 🍽 Zomato Restaurant Analysis (2018)
 > Which Indian cities offer the best value dining — and where should Zomato expand next?
 
-[![Tableau](https://img.shields.io/badge/Tableau-Live%20Dashboard-E23744?style=flat&logo=tableau)](https://public.tableau.com/shared/9FSCP72TK)
+[![Tableau](https://img.shields.io/badge/Tableau-Live%20Dashboard-E23744?style=flat&logo=tableau)](https://public.tableau.com/views/ZomatoIndiaRestaurantAnalysis2018-Bhawna/ZomatoIndiaRestaurantAnalysis2018?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 [![Python](https://img.shields.io/badge/Python-3.14-blue?style=flat&logo=python)](https://python.org)
 [![SQL](https://img.shields.io/badge/SQL-SQLite-green?style=flat)](https://sqlite.org)
 [![Pandas](https://img.shields.io/badge/pandas-2.x-150458?style=flat&logo=pandas)](https://pandas.pydata.org)
@@ -9,7 +9,7 @@
 ---
 
 ## 📊 Live Dashboard
-🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/shared/9FSCP72TK)**
+🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/views/ZomatoIndiaRestaurantAnalysis2018-Bhawna/ZomatoIndiaRestaurantAnalysis2018?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -72,7 +72,7 @@ Ahmedabad leads with an expansion score of 2.18 — the only city combining high
 
 Interactive bubble chart: X = avg cost, Y = avg rating, bubble size = restaurant count, colour = delivery adoption %. The two large green bubbles are Delhi and Gurgaon — high volume, moderate quality. Small dots in the top right = hidden gem cities with high quality but low restaurant count.
 
-🔗 **[Interact with this chart live on Tableau Public](https://public.tableau.com/shared/9FSCP72TK)**
+🔗 **[Interact with this chart live on Tableau Public](https://public.tableau.com/views/ZomatoIndiaRestaurantAnalysis2018-Bhawna/ZomatoIndiaRestaurantAnalysis2018?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
